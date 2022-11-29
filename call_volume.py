@@ -27,7 +27,5 @@ def quesito1():
 
 if __name__ == "__main__":
 
-    data = input(
-        'Qual Dia deseja um relátorio dia a dia referente aos ultimos 30 dias? FORMATO dd/mm/yyyy ')
     quesito1()
     
